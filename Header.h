@@ -4,9 +4,13 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include <list>
+#include <algorithm>
+#include <vector>
+#include <sstream>
+#include <conio.h>
 
 void uruchomMenu();
 
+class haslo;
 
 #endif
