@@ -8,6 +8,7 @@
 #include <vector>
 #include <sstream>
 #include <conio.h>
+#include <ctime>
 
 void uruchomMenu();
 
